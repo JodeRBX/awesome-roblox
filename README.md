@@ -9,6 +9,14 @@ A curated list of awesome libraries, plugins, and resources for Roblox scripting
 * [Underscore.lua](https://mirven.github.io/underscore.lua/) - A Ruby-like utility library for dealing with iterators, tables, arrays, and functions
 * [30log](https://github.com/Yonaba/30log) - A minimal OOP framework that supports classes, inheritance, and mixins in only 30 lines
 
+##Plugins
+### Building tools
+* [F3X's Building Tools](http://www.roblox.com/Building-Tools-by-F3X-Plugin-item?id=144950355) - Simple and powerful building tools
+* [qCmdUtl](http://www.roblox.com/qCmdUtl-Streamlined-building-item?id=142314093) - An updated version of Animinus' old CmdUtl building tools
+* [FusiaOS's Map Editor](http://www.roblox.com/FusiaOSs-Map-Editor-The-Manual-Triangle-Plugin-item?id=168183583) - Easy creation of tringles
+### Animation
+* [Roblox animation editor](http://www.roblox.com/Animation-Editor-item?id=144373835) - Official Roblox animation editor
+
 ## Resources
 * [Roblox Wiki](http://wiki.roblox.com/) - The official wiki for Roblox
 * [Scripting Helpers](https://scriptinghelpers.org/) - Q&A site for Roblox scripting
