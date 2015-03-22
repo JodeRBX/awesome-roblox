@@ -14,7 +14,9 @@ A curated list of awesome libraries, plugins, and resources for Roblox scripting
 ### Building tools
 * [F3X's Building Tools](http://www.roblox.com/Building-Tools-by-F3X-Plugin-item?id=144950355) - Simple and powerful building tools
 * [qCmdUtl](http://www.roblox.com/qCmdUtl-Streamlined-building-item?id=142314093) - An updated version of Animinus' old CmdUtl building tools
-* [FusiaOS's Map Editor](http://www.roblox.com/FusiaOSs-Map-Editor-The-Manual-Triangle-Plugin-item?id=168183583) - Easy creation of tringles
+* [FusiaOS's Map Editor](http://www.roblox.com/FusiaOSs-Map-Editor-The-Manual-Triangle-Plugin-item?id=168183583) - Simple triangle creator
+* [Terraingle](http://www.roblox.com/Terraingle-Databrains-terrain-plugin-V1-6-item?id=149243812) - More advanced triangle creator
+* [GapFill & Extrude](http://www.roblox.com/Stravant-GapFill-Extrude-item?id=165687726) - Easily fill gaps between and extrude arbitrary surfaces
 
 ### Animation
 * [Roblox animation editor](http://www.roblox.com/Animation-Editor-item?id=144373835) - Official Roblox animation editor
