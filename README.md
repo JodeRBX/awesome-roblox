@@ -49,5 +49,4 @@ A curated list of awesome libraries, plugins, and resources for Roblox scripting
 * [Roblox Core Scripts](https://github.com/ROBLOX/Core-Scripts) - Official respository for Roblox's internal client-side Lua code
 * [Roblox Bug Tracker](https://github.com/Anaminus/roblox-bug-tracker) - An unofficial bug tracker for Roblox
 * [Roblox Enhancement Proposals](https://github.com/RobloxLabs/ROBLOX-enhancement-proposals) - An unofficial resposository for discussing enhancement proposals
-* [Moonscript](http://moonscript.org/) - A CoffeeScript-esque language that compiles to Lua
 * [Skyboxes](http://www.roblox.com/My/Sets.aspx?id=532783) - A collection of high-quality skyboxes
