@@ -14,7 +14,8 @@ A curated list of awesome libraries, plugins, and resources for Roblox scripting
 * [Underscore.lua](https://mirven.github.io/underscore.lua/) - A Ruby-like utility library for dealing with iterators, tables, arrays, and functions
 * [30log](https://github.com/Yonaba/30log) - A minimal OOP framework that supports classes, inheritance, and mixins in only 30 lines
 * [EncodeInstance](http://www.roblox.com/EncodeInstance-Module-Does-not-work-with-CSG-item?id=176696010) - Highly-compressed instance serialization
-* [BitBuffer Module](http://www.roblox.com/BitBuffer-Module-item?id=174612085) - Bitwise data manipulation
+* [BitBuffer Module](http://www.roblox.com/BitBuffer-Module-item?id=174612085) - Bitwise data storage
+* [Bitwise Operations Module](http://www.roblox.com/Bitwise-Operations-Library-item?id=259454177) - Blazing-fast pure-Lua bitwise operations library
 * [PlayerDataStore Module](http://www.roblox.com/PlayerDataStore-Module-item?id=159129148) - Wrapper API around DataStores for saving per-player data
 * [CFrameInterpolator Module](http://www.roblox.com/CFrameInterpolator-Module-item?id=161739700) - Easily interpolate between two CFrames
 * [gloo](http://www.roblox.com/gloo-Library-v0-11-item?id=67401171) - A GUI library
