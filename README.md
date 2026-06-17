@@ -43,6 +43,7 @@ A curated list of awesome libraries, plugins, and resources for Roblox scripting
 * [Uncopylocked Games Collection](https://github.com/RobloxLabs/uncopylocked-game-collection) - A collection of uncopylocked games
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - An unofficial list of all known web APIs on the Roblox site
 * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources
+* [Roblox GUI Maker](https://robloxguimaker.dev/) - Free AI-assisted GUI layout and Lua starter code generator for Roblox Studio
 * [Roblox Dev Tips](https://twitter.com/RbxDevTips) - A collection of useful tips
 
 ##Misc
