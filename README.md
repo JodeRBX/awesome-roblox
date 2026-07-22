@@ -44,6 +44,7 @@ A curated list of awesome libraries, plugins, and resources for Roblox scripting
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - An unofficial list of all known web APIs on the Roblox site
 * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources
 * [Roblox Dev Tips](https://twitter.com/RbxDevTips) - A collection of useful tips
+* [Gakuran Guide](https://gakuranguide.wiki/) - Comprehensive wiki and guide hub for Roblox fighting games, codes, and tier lists.
 
 ##Misc
 * [Roblox Core Scripts](https://github.com/ROBLOX/Core-Scripts) - Official respository for Roblox's internal client-side Lua code
